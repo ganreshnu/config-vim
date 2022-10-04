@@ -3,7 +3,7 @@ if $TERM == 'linux'
 	let &t_VS.="\e[?2c"
 	let &t_EI.="\e[?2c"
 	let &t_SR.="\e[?8c"
-	let &t_SR.="\e[?8c"
+	let &t_SI.="\e[?8c"
 else
 	let &t_VS.="\e[2 q"
 	let &t_EI.="\e[2 q"
