@@ -1,3 +1,4 @@
+" set the terminal cursor
 let &t_VS.="\e[2 q"
 let &t_EI.="\e[2 q"
 let &t_SR.="\e[4 q"
