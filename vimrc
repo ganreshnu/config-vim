@@ -20,3 +20,6 @@ set softtabstop=0
 set shiftwidth=0
 set noexpandtab
 
+" line number settings
+set number
+set relativenumber
