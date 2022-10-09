@@ -1,3 +1,5 @@
+set runtimepath+=~/.config/vim,~/.config/vim/after
+set viminfo+=n~/.local/share/vim/viminfo
 " set the terminal cursor
 if $TERM == 'linux'
 	let &t_ve.="\e[?25h\e[?16;143;255c"
