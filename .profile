@@ -1,3 +1,3 @@
-export VIMINIT="let \$MYVIMRC = \"$config_home/vim/vimrc\" | source \$MYVIMRC"
+export VIMINIT="let \$MYVIMRC = \"${XDG_CONFIG_HOME:-$HOME/.config}/vim/vimrc\" | source \$MYVIMRC"
 
 # vim: ft=bash
