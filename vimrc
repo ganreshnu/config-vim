@@ -1,4 +1,5 @@
 set runtimepath+=~/.config/vim,~/.config/vim/after
+set packpath+=~/.config/vim,~/.config/vim/after
 set viminfo+=n~/.local/state/vim/viminfo
 " set the terminal cursor
 if $TERM == 'linux'
