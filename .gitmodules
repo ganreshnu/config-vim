@@ -10,3 +10,6 @@
 [submodule "pack/plugin/start/ultisnips"]
 	path = pack/plugin/start/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
+[submodule "pack/plugin/start/YouCompleteMe"]
+	path = pack/plugin/start/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
