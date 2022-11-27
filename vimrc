@@ -34,6 +34,5 @@ set splitbelow
 "let g:UltiSnipsExpandTrigger="<tab>"               
 "let g:UltiSnipsJumpForwardTrigger="<tab>"
 "let g:UltiSnipsJumpBackwardTrigger="<c-b>"
-let g:UltiSnipsSnippetDirectories=[$HOME.'.config/vim/UltiSnips']
-
+let g:UltiSnipsSnippetDirectories=[$HOME.'/.local/share/UltiShips']
 

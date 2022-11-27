@@ -10,3 +10,9 @@
 [submodule "pack/plugin/start/ultisnips"]
 	path = pack/plugin/start/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
+[submodule "pack/plugin/start/vim-easycomplete"]
+	path = pack/plugin/start/vim-easycomplete
+	url = https://github.com/jayli/vim-easycomplete.git
+[submodule "pack/plugin/start/vim-snippets"]
+	path = pack/plugin/start/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
