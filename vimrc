@@ -32,6 +32,7 @@ set relativenumber
 set splitright
 set splitbelow
 
+set background=dark
 set termguicolors
 
 "let g:UltiSnipsExpandTrigger="<tab>"               
